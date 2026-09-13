@@ -18,6 +18,12 @@ The dependent variables represent different aspects of driver performance:
 
 | DNF rate | The proportion of races a driver did not finish | Calculated as total DNFs divided by total races entered |
 
-The `Win` variable was used to identify whether a driver won each individual race. The `DNF` variable was created from the `Status` column and was coded as 1 when the status was not “running” and 0 when the status was “running.”
+The `Win` variable was used to identify whether a driver won each individual race. The `DNF` variable was created from the `Status` column and was coded as 1 when the status was not “running” and 0 when the status was “running."
 
 The  `Driver` variable is used to identify each driver. `Season` identifies the year of each race, while `Length` records the track length in miles per lap and is used here to examine whether performance differs across tracks of different lengths.
+
+My data comes from [nascaR-data](https://github.com/kyleGrealis/nascaR.data), which web-scrapes [NASCAR Driver Averages, Statistics & Historical Results | DriverAverages.com](https://www.driveraverages.com/) for all of the data on its site.
+
+Each row represents a result in a specific race. The main features are track, start, pts, laps, led, win, surface, and status.
+
+The dataset is 101,157 rows long in total. It is the entirety of the history of the nascar cup series, and it is assumed to be normal.
