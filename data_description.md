@@ -1,5 +1,5 @@
 # Data Description
-## The key variables are finish, rating, position gain, win rate, DNF rate, and year type.
+The key variables are finish, rating, position gain, win rate, DNF rate, and year type.
 ### Conceptualization and Operationalization of Variables
 
 The primary independent variable in this project is season type. Season type for this context represents whether a NASCAR season is even-numbered or odd-numbered. It is used by labeling seasons divisible by two as “Even” and all other seasons as “Odd.”
