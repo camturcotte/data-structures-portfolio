@@ -23,7 +23,7 @@ The `Win` variable was used to identify whether a driver won each individual rac
 The  `Driver` variable is used to identify each driver. `Season` identifies the year of each race, while `Length` records the track length in miles per lap and is used here to examine whether performance differs across tracks of different lengths.
 
 
-My data comes from [nascaR-data](https://github.com/kyleGrealis/nascaR.data), which web-scrapes [DriverAverages](https://www.driveraverages.com/) for all of the data on its site.
+## My data comes from [nascaR-data](https://github.com/kyleGrealis/nascaR.data), which web-scrapes [DriverAverages](https://www.driveraverages.com/) for all of the data on its site.
 
 Each row represents a result in a specific race. The main features are track, start, pts, laps, led, win, surface, and status.
 
