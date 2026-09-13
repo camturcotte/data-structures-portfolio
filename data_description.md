@@ -2,7 +2,7 @@
 ## The key variables are finish, rating, position gain, win rate, DNF rate, and year type.
 ### Conceptualization and Operationalization of Variables
 
-The primary independent variable in this project is **season type**. Season type represents whether a NASCAR season is even-numbered or odd-numbered. It was operationalized by labeling seasons divisible by two as “Even” and all other seasons as “Odd.”
+The primary independent variable in this project is season type. Season type for this context represents whether a NASCAR season is even-numbered or odd-numbered. It is used by labeling seasons divisible by two as “Even” and all other seasons as “Odd.”
 
 The dependent variables represent different aspects of driver performance:
 
@@ -20,4 +20,4 @@ The dependent variables represent different aspects of driver performance:
 
 The `Win` variable was used to identify whether a driver won each individual race. The `DNF` variable was created from the `Status` column and was coded as 1 when the status was not “running” and 0 when the status was “running.”
 
-The project also uses `Driver` to compare Joey Logano with Ryan Blaney, Denny Hamlin, Kyle Larson, and Kyle Busch. `Season` identifies the year of each race, while `Length` records the track length in miles per lap and provides additional context for examining whether performance differs across tracks of different lengths.
+The  `Driver` variable is used to identify each driver. `Season` identifies the year of each race, while `Length` records the track length in miles per lap and is used here to examine whether performance differs across tracks of different lengths.
