@@ -9,3 +9,4 @@ Hello, I am a 20-year-old student pursuing a major in Sports Analytics, with a m
 ## Portfolio
 - [Blog](blog.md)
 - [Projects](projects.md)
+- [Social Links](social_links.md)
