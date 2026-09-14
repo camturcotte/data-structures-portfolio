@@ -4,3 +4,5 @@
 [Data description](data_description.md)
 
 [Data Cleaning and Preparation](data_cleaning_preparation.md)
+
+[Data Visualizations, Insights, and Conclusion](data_visualizations_insights.md)
