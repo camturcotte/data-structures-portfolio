@@ -10,3 +10,5 @@ Another visual, although non-significant, showed that there was a slight increas
 
 When compared to other drivers, this was the only variable that was significant at the 0.05 level.
 ![other_p_values](images/other_p_values.png)
+
+Another interesting insight, although slightly non-significant, was that Kyle Larson has a 100% increase in win rate in odd years vs even years.
