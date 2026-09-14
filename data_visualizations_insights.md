@@ -19,4 +19,4 @@ Another interesting insight, although slightly non-significant, was that Kyle La
 
 ![larson_win_percentage](images/larson_win_percentage.png)
 
-So, in conclusion, the story tells that, for the most part, there is no significant difference between even and odd years for the variables that were observed. But Logano has a significant difference in driver rating between even and odd years, suggesting that the nickname "Even Year Logano" is warranted due to his seemingly better results in those years.
+## So, in conclusion, the story tells that, for the most part, there is no significant difference between even and odd years for the variables that were observed. But Logano has a significant difference in driver rating between even and odd years, suggesting that the nickname "Even Year Logano" is warranted due to his seemingly better results in those years.
