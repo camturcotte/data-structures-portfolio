@@ -1,6 +1,6 @@
 ## Data Cleaning and Preparation
 
-# The first step I took in the data cleaning process was to check out all the variables and their data types using .info(). There was one column that was empty, S3, so it was dropped as stage 3 is the final stage where the end of the race happens.
+# The first step I took in the data cleaning process was to check out all the variables and their data types. There was one column that was empty, S3, so it was dropped as stage 3 is the final stage where the end of the race happens.
 
 # Then, I created a variable to add to the data that says which generation of car was used in each particular race. This was done through if and else statements and the year variable to assign the generations.
 
