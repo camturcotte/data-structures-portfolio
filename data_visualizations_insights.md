@@ -11,6 +11,6 @@ Another visual, although non-significant, showed that there was a slight increas
 When compared to other drivers, this was the only variable that was significant at the 0.05 level.
 ![other_p_values](images/other_p_values.png)
 
-Another interesting insight, although slightly non-significant, was that Kyle Larson has a more than 100% increase in win rate in odd years vs even years.
+Another interesting insight, although slightly non-significant, was that Kyle Larson has a more than 100% increase in win rate in odd years vs even years, even with more races completed in odd years, although he was suspended in an even year for a racially insensitive comment.
 
 ![larson_win_percentage](images/larson_win_percentage.png)
