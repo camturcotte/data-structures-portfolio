@@ -7,3 +7,5 @@ His average rating was 91.48 in even years compared with 87.66 in odd years. Thi
 
 Another visual, although non-significant, showed that there was a slight increase in the median average finish in even years, but also showed slightly worse median position gain.
 ![Logano_Other_Visual](images/logano_other_visualizations.png)
+
+When compared to other drivers, this was the only variable that was significant at the 0.05 level.
