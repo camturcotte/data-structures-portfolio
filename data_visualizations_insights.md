@@ -9,3 +9,4 @@ Another visual, although non-significant, showed that there was a slight increas
 ![Logano_Other_Visual](images/logano_other_visualizations.png)
 
 When compared to other drivers, this was the only variable that was significant at the 0.05 level.
+![other_p_values](images/other_p_values.png)
