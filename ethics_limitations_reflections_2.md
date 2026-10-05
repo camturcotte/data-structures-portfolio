@@ -4,4 +4,4 @@ This dataset has several limitations. It does not capture factors that could imp
 
 The analysis uses three regular seasons and excludes games without sufficient prior history. This limits how well the findings apply to season-opening games or playoffs. Also, historical averages summarize previous performance but do not fully explain what happened during a particular game to create the average. 
 
-The data consists of publicly available team statistics. If I had more time, I would include additional seasons and investigate predictors such as rest days, injuries, and expected goals. This project taught me that a more complex model does not automatically perform better: Poisson regression performed similarly to XGBoost while being easier to interpret.
+The data consists of publicly available team statistics. If I had more time, I would include additional seasons and investigate predictors such as rest days, injuries, and expected goals. This project taught me that a more complex model does not automatically perform better; Poisson regression performed similarly to XGBoost while being easier to interpret.
