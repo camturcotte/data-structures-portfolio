@@ -8,3 +8,5 @@
 [Data Visualization, Insights, and Conclusion](data_visualizations_insights_2.md)
 
 [Ethics, Limitations, and Reflections](ethics_limitations_reflections_2.md)
+
+[Code and Transparency](code_and_transparency_2.md)
