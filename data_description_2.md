@@ -13,3 +13,9 @@ The primary dependent variable in this project is shots_on_goal.
 The `shots_against` variable is used to construct the historical defensive averages. It is not meant to be for the same game, because its value is unknown before that game is played.
 
 For modeling, `homeRoad` is converted into `is_home`, coded as **1 for home and 0 for away**. All historical averages are reset at the start of each season and use only information available before the game being predicted.
+
+My data comes from the [NHL statistics API](https://api.nhle.com/stats/rest/en/team/summary), which provides team statistics for individual NHL games.
+
+Each row represents one team’s performance in a specific game, so each game contributes two rows. The key variables are `shots_on_goal`, `shots_against`, and `homeRoad`, along with the calculated predictors `prior_average_shots` and `opponent_prior_avg_shots_against`.
+
+The dataset contains **7,872 team-game observations across 3,936 regular-season games** from the 2021–22, 2022–23, and 2023–24 seasons. Games without sufficient prior history are excluded from modeling. The data is not assumed to follow a normal distribution.
